@@ -25,10 +25,3 @@ npm install
 * Twitter: [@jlarteagap](https://twitter.com/jlarteagap)
 * Github: [@jlarteagap](https://github.com/jlarteagap)
 * LinkedIn: [@jorge-luis-arteaga-perez](https://linkedin.com/in/jorge-luis-arteaga-perez)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
